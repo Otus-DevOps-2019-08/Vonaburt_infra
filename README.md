@@ -24,8 +24,9 @@ packer build -var-file=variables.json ubuntu16.json
 ```
 , где:
 
-**packer** - заранее установленный Packer CLI
-**build** - команда сборки образа
-**-var-file=variables.json** - флаг передачи переменных через json-файл с переменными
-**ubuntu16.json** - шаблон собираемого образа
+**packer** - заранее установленный Packer CLI  
+**build** - команда сборки образа  
+**-var-file=variables.json** - флаг передачи переменных через json-файл с переменными  
+**ubuntu16.json** - шаблон собираемого образа  
+
 
