@@ -1,0 +1,4 @@
+.gitignore
+.idea
+*.iml
+packer/variables.json
